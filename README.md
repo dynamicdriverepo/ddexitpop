@@ -1,4 +1,4 @@
-# Zoomio- jQuery Image Zoom
+# Exit Intent Pop Up Script (with Mobile Fallback)
 
 **Description:**  **[jQuery Exit Intent Pop Up Script](http://www.dynamicdrive.com/dynamicindex8/exitpopup/)** is a modern, exit pop up script that's triggered when the user signals he's about to leave a page, by moving the mouse into the browser's location or toolbar. Great for capturing leads, the script supports 40+ intro animations and mobile fallback support.
 
